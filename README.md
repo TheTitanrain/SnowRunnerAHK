@@ -1,21 +1,20 @@
 # SnowRunnerAHK
-Auto Hot key scripts for Snow Runner game
+AutoHotkey 2 script for SnowRunner game.
 
 ## Implemented:
--Cruise control  
--Move gear shifter using Numpad 
+- Cruise control (gas retention).
 
 ### Cruise control:
-Press "Ctrl + W" to activate full thortle cruise control  
-To disable press "W" or "S"  
-##### Known issues:
-  Some times "S" buton does not work to disable cruise control
+- Press "Ctrl+w" to activate full thortle cruise control.
+- To disable press "S".
 
-### Selecting gear using Numpad:
-Press to move shifter:  
-Numpad8 - Up  
-Numpad5 - Down  
-Numpad4 - Left  
-Numpad6 - Right  
-##### Knwon issues:
-  Some times shifter does not move.
+-----------------------------------------------------------------
+# SnowRunnerAHK
+Скрипт AutoHotkey 2 для игры SnowRunner.
+
+## Реализовано:
+- Круиз-контроль (удержание газа).
+
+### Круиз-контроль:
+- Нажмите "Ctrl+w", чтобы активировать полный газ (круиз-контроль).
+- Для отключения нажмите "s".
